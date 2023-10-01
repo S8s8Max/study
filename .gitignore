@@ -2,3 +2,5 @@
 .scala-build/
 .vscode/
 out/
+.idea/
+*.iml
